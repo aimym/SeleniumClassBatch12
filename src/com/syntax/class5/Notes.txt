@@ -1,0 +1,24 @@
+Radio Buttons are circle, Check Buttons are square, we can select multiple boxes with check Button,
+and only one with RadioButton. And also with Check Boxes we can select and unselect, the options that we need.
+
+Handling Check Boxes and Radio Buttons
+--if you have only 1 check box or radio button - you can just click on it
+--if you have multiple choices - store them in List and loop through
+
+DropDowns:
+DropDown is a menu which gives us an opportunity to select one or more option
+
+Types of dropdowns:
+1.Single select
+2.Multiple select
+
+Handling dropdowns:
+1.Click on dropdown and click on the option
+2.using Select class
+
+     in order to use Select class we need to make sure our dropdown has select tag
+
+Selecting an option from a dropdown can be done in 3 ways:
+1.by index
+2.by visible tex
+3.by value

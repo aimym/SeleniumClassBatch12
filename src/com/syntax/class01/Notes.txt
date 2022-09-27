@@ -1,0 +1,25 @@
+Selenium Class 1:
+
+What is software testing?
+-- identify the correctness and quality of the application
+
+How many ways can we actually test?
+-- manual
+-- automation
+
+When do we go for automation?
+-- after manual testing is passed
+-- when environment is stable
+-- analyze our test suite and choose our automation tools
+
+What automation tools do we know about?
+-- Selenium, TestNG, Cucumber, Katalon Studio, UFT/QTP
+
+Level of testing
+-- Unit testing
+-- Integration testing
+-- Acceptance testing
+-- System testing
+
+Types of testing?
+
